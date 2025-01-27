@@ -46,11 +46,11 @@ This task builds a recommendation system that suggests the top 3 similar custome
    - Used cosine similarity to calculate customer similarities.
    - Recommended top 3 similar customers for the first 20 customers.
 4. *Output*:
-   - Generated a CSV file (Lookalike.csv) containing similarity scores.
+   - Generated a CSV file (Nekkanti_DurgaNaveen_Lookalike.csv) containing similarity scores.
 
 ### Deliverables:
 - A Python script (Task2_Lookalike_Model.py) explaining the model development.
-- A CSV file (Lookalike.csv) with recommendations.
+- A CSV file (Nekkanti_DurgaNaveen_Lookalike.csv) with recommendations.
 
 ---
 
